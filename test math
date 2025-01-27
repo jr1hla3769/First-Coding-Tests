@@ -1,0 +1,12 @@
+
+import math
+z = 81
+print(math.sqrt(z))
+pi = math.pi
+print(pi)
+e = math.e
+print(e)
+X = 81
+Y = 7
+print(math.pow(X, Y))
+print(math.factorial(Y))
