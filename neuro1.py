@@ -32,4 +32,6 @@ t_vec = np.linspace(0, 1, np.size(v_out))
 plt.plot(t_vec, v_out)
 plt.xlabel('Time (s)')
 plt.ylabel(' Membrane potential (V)')
+plt.title('First Neuronal Model')
 plt.show()
+
